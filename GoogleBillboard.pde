@@ -11,7 +11,7 @@ public void setup()
      	if(isPrime(dNum) == true)
      	{
      		System.out.println(dNum + " is the first prime");
-     		// break;
+     		break;
      	}
 	 }
      noLoop();  
